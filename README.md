@@ -1,6 +1,5 @@
 MULTIVARIATE-LINEAR-REGRESSION
 
-Assignment
 
 We will predict employee salaries from different employee characteristics (or features).
 
